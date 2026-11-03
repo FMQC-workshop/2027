@@ -4,6 +4,10 @@ layout: home
 
 # Program
 
+TBA
+
+{% comment %}
+
 | <span style="display: inline-block; width:80px">Time</span> | <span style="display: inline-block; width:400px">Program</span> |
 |-----------|----------------|
 | 8:00–9:00 | *Registration* |
@@ -30,3 +34,5 @@ layout: home
 |16:00–16:20| Jakub Havlík and Ondřej Lengál:<a href="https://excel.fit.vutbr.cz/submissions/2026/042/42_poster.pdf"><br>*Synthesizing Quantum Circuits using SMT and MILP*</a> |
 |16:20–16:40| Jad Issa, Christophe Chareton, and Romain Péchoux:<a href="https://liqcs2026.github.io/assets/pdfs/LIQCS_2026_extended_abstract_13.pdf"><br>*Static Resource Analysis of Hybrid Programs with Unbounded Loops*</a> |
 |16:40–17:10 | *Discussion*  |
+
+{% endcomment %}

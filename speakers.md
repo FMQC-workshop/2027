@@ -4,6 +4,10 @@ layout: home
 
 # Invited Speakers
 
+TBA
+
+{% comment %}
+
 ## [Bob Coecke](https://www.cs.ox.ac.uk/people/bob.coecke/) (keynote)
 
 <table class="no-border">
@@ -107,3 +111,5 @@ In this talk we show recent insights into fine-grained counting complexity. Whil
     </tr>
   </tbody>
 </table>
+
+{% endcomment %}

@@ -4,15 +4,20 @@ layout: home
 
 # Call for Contributions
 
-Workshop contributions can be extended abstracts as well as short and long papers (including already published results). There are no formatting guidelines for contributions. Accepted contributions will be invited for presentation at the workshop.
+Workshop contributions can be extended abstracts as well as short and long papers 
+(including already published results). There are no formatting guidelines for contributions. 
+Accepted contributions will be invited for presentation at the workshop.
 
 At the workshop, we will assess whether there is sufficient interest in a *special issue*.
 
 ## Submission Guidelines
 
-Paper submissions are handled through [this HotCRP site](https://submissions.floc26.org/fmqc/).
-<br>
-The submission deadline is [May 11, 2026 AoE](https://time.is/compare/2359_11_May_2026_in_UTC-12/local).
+Paper submissions are handled through [this HotCRP/EasyChair site](broken-link).
+
+## Important Dates
+- Submission deadline: [January 29, 2027 AoE](https://time.is/compare/2359_29_January_2027_in_UTC-12/local)
+- Notification to authors: [March 1, 2027 AoE](https://time.is/compare/2359_1_March_2027_in_UTC-12/local)
+- Camera-ready submission (informal pre-proceedings): [March 22, 2027 AoE](https://time.is/compare/2359_22_March_2027_in_UTC-12/local) 
 
 ## Topics
 

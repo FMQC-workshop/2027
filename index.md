@@ -2,20 +2,20 @@
 layout: home
 ---
 
-# FMQC 2026
+# FMQC 2027
 
 <p style="text-align: center;font-size:21px">
-Second Workshop on Formal Methods in Quantum Computing
+Third Workshop on Formal Methods in Quantum Computing
 </p>
 
 <p style="margin-bottom:5mm;"></p>
 
 <p style="text-align: center;font-size:18px">
-co-located with <a href="https://www.floc26.org/">FLoC 2026</a> in Lisbon, July 18
+co-located with <a href="https://etaps.org/2027/" target="_blank">ETAPS 2027</a> in Copenhagen, Denmark, April 10, 2027.
 <p style="text-align: center;font-size:18px">
 <br>
 <br>
 
 <!-- <p style="margin-bottom:1cm;"></p> -->
 
-<img src="assets/images/lisbon.jpg" alt="Lisbon"/>
+<img src="assets/images/copenhagen.jpg" alt="Copenhagen (credits: Bob Jenkin)"/>
