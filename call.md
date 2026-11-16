@@ -23,6 +23,20 @@ Paper submissions are handled through [this HotCRP site](https://form.sdu.dk/FMQ
 
 Topics of interest include but are not limited to:
 
+- Categorical Quantum Theory
+- Diagrammatic Methods for Quantum Computing (e.g., ZX-Calculus, Quantum Decision Diagrams and Tensor Networks)
+- Model Counting for Quantum Computing
+- Post-Quantum Cryptography
+- Programming Languages for Quantum Computing
+- Quantum Circuit Synthesis and Optimisation
+- Quantum Compilation
+- Quantum Error Correction
+- Quantum Process Algebra
+- SAT/SMT Solving in Quantum Computing
+- Testing and Verification of Quantum Programs
+- Topological Quantum Computing
+
+{% comment %}
 - ZX-Calculus
 - Quantum Process Algebra
 - Efficient Data Structures (e.g., Quantum Decision Diagrams and Tensor Networks)
@@ -32,3 +46,4 @@ Topics of interest include but are not limited to:
 - Quantum Error Correction Codes (e.g., Topological Codes)
 - Post-Quantum Cryptography
 - Model Counting for Quantum Computing
+{% endcomment %}
