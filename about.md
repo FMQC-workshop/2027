@@ -10,7 +10,7 @@ Copenhagen, Denmark, on April 10, 2027. It will be co-located with FLoC 2026.
 The recent surge in quantum computing, driven by substantial investments from governments 
 and industry leaders such as IBM and Google, highlights its growing significance in both 
 research and applications. Positioned at the intersection of quantum physics, applied 
-mathematics, and theoretical computer science, the field presents vast opportunities 
+mathematics and theoretical computer science, the field presents vast opportunities 
 for interdisciplinary collaboration and synergy.
 
 This workshop, approaching quantum computing from a computer science perspective, 
