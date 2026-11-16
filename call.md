@@ -12,7 +12,7 @@ At the workshop, we will assess whether there is sufficient interest in a *speci
 
 ## Submission Guidelines
 
-Paper submissions are handled through [this HotCRP/EasyChair site](broken-link).
+Paper submissions are handled through [this HotCRP site](https://form.sdu.dk/FMQC2027/).
 
 ## Important Dates
 - Submission deadline: [January 29, 2027 AoE](https://time.is/compare/2359_29_January_2027_in_UTC-12/local)
