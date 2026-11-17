@@ -24,7 +24,8 @@ Paper submissions are handled through [this HotCRP site](https://form.sdu.dk/FMQ
 Topics of interest include but are not limited to:
 
 - Categorical Quantum Theory
-- Diagrammatic Methods for Quantum Computing (e.g., ZX-Calculus, Quantum Decision Diagrams and Tensor Networks)
+- Diagrammatic Methods for Quantum Computing (e.g., ZX-Calculus and Tensor Networks)
+- Efficient Data Structures (e.g. Quantum Decision Diagrams)
 - Model Counting for Quantum Computing
 - Post-Quantum Cryptography
 - Programming Languages for Quantum Computing
