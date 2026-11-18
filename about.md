@@ -5,7 +5,7 @@ layout: home
 # About FMQC
 
 The Third Workshop on Formal Methods in Quantum Computing (FMQC) will take place in 
-Copenhagen, Denmark, on April 10, 2027. It will be co-located with FLoC 2026.
+Copenhagen, Denmark, on April 10, 2027. It will be co-located with ETAPS 2027.
 
 The recent surge in quantum computing, driven by substantial investments from governments 
 and industry leaders such as IBM and Google, highlights its growing significance in both 
